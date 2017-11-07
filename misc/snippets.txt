@@ -1,0 +1,6 @@
+		if (res.entities.location[0].value == 'rome' && res.entities.intent[0].value=='time'){
+			rtm.sendMessage("It's IST + 3.5hrs " + usrCtxt.user, usrCtxt.channel);
+		}
+		else{
+			rtm.sendMessage("I don't know", usrCtxt.channel);
+		}

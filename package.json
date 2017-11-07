@@ -1,0 +1,17 @@
+{
+  "name": "iris",
+  "version": "1.0.0",
+  "description": "microservices using nodejs",
+  "main": "run",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sameer Panigrahi",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.12.0",
+    "bluebird": "^3.5.1",
+    "express": "^4.15.4",
+    "superagent": "^3.6.3"
+  }
+}

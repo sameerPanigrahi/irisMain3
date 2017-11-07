@@ -1,0 +1,6 @@
+slack bot token - xoxb-238893809540-JLE6rUJMepIMMMsJi5JjGlfX
+
+slackbot-wit token - 4XH5DMV7S6JDWFFSKMQOU6KYUCY2D2CH
+
+'Authorization: Bearer 4XH5DMV7S6JDWFFSKMQOU6KYUCY2D2CH'
+'https://api.wit.ai/message?v=17/09/2017&q='
